@@ -7,11 +7,11 @@
 
 ### Core Concepts:
 #### Five essential pillars: 
-### Logging
-### Tracing
-### Metrics (latency, token usage, costs)
-### User Feedback
-### Evaluation 
+### 1. Logging
+### 2. Tracing
+### 3. Metrics (latency, token usage, costs)
+### 4. User Feedback
+### 5. Evaluation 
 
 
 
